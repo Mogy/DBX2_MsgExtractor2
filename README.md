@@ -17,5 +17,5 @@ Dragon Ball Xenoverse 2 MSG Tool By Delutto を使ってメッセージデータ
 
 1. Dragon Ball Xenoverse 2 MSG Tool By Delutto をダウンロードして実行ファイルを同ディレクトリに置く
 2. PC版の英語メッセージデータ(*_en.msg)を「PcEnMsgフォルダ」に追加する
-4. DBX2_MsgCreator.exe を実行
+4. DBX2_MsgExtractor.exe を実行
 5. 抽出したメッセージの一覧が「enMsg.txt」に出力される
